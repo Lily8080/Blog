@@ -48,6 +48,13 @@ nav a:hover {
 	float: left;
 }
 
+#lside h1 {
+	font: 24px/22px '微软雅黑','黑体',sans-serif;
+	padding-top: 20px;
+	margin: 0 0 30px 15px;
+
+}
+
 article {	
 	background: white;
 	padding: 20px 25px 0px;
@@ -62,11 +69,6 @@ article li {
 
 article li:last-child {
 	border-bottom: 0px solid rgb(212, 207, 207);
-}
-
-article h2 {
-	font: 25px/22px '微软雅黑','黑体',sans-serif;
-	margin-bottom: 30px; 
 }
 
 article img {
@@ -93,7 +95,6 @@ article h4>a, article h4>a:visited {
 article h4>a:hover {
 	color: #777;
 }
-
 
 .entry_header {
 	float: left;
